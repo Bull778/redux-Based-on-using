@@ -1,5 +1,5 @@
 # redux的基础使用
-redex全局状态管理
+**Redux 是 JavaScript 状态容器，提供可预测化的状态管理。**
 
 ## Store
 
@@ -87,3 +87,4 @@ module.exports = {
 
 
 ```
+[参考文档](http://www.ruanyifeng.com/blog/2016/09/redux_tutorial_part_one_basic_usages.html)
