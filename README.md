@@ -14,7 +14,7 @@ const store = createStore(reducer);
 
 // store.dispatch()是 View 发出 Action 的唯一方法
 store.dispatch({
-  type: 'send_action',
+  type: 'sendaction',
   payload: 'Redux'
   });
 ```
